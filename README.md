@@ -2,6 +2,8 @@
 #### Multitask neural model for Part-of-Speech tagging, Morphological parsing and Lemmatization
 #### Implemented in Keras 2.1.5
 
+![Architecture](https://i.imgur.com/3tKVRU9.png)
+
 ## Installation
 ### Dependencies
  - Keras==2.1.5
